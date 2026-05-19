@@ -2,6 +2,6 @@ Class Programmer
 {
     public static void main(String[] args)
     {
-        System.oiut.println("My first program pull in Github");
+        System.out.println("My first program pull in Github");
     }
 }
